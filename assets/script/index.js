@@ -12,7 +12,7 @@ fetch(db)
         const desc =
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus sem, finibus ac nisl at, tristique accumsan ligula. Cras commodo convallis tellus efficitur rutrum. Vivamus iaculis diam nec euismod lacinia.';
         return `<div class="col">
-        <div class="card shadow-sm" id=${id}>
+        <div class="card code2 shadow-sm" id=${id}>
           <img
             class="bd-placeholder-img card-img-top"
             width="100%"
@@ -39,14 +39,14 @@ fetch(db)
               <div class="btn-group">
                 <a
                   role="button"
-                  class="btn btn-sm btn-outline-secondary"
+                  class="btn btn-sm code-btn"
                   href="${github}"
                 >
                   See it in GitHub
                 </a>
                 <a
                   role="button"
-                  class="btn btn-sm btn-outline-secondary"
+                  class="btn btn-sm code-btn"
                   href="${action}"
                 >
                   See it in action!

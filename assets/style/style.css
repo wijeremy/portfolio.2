@@ -1,0 +1,53 @@
+body {
+  font-family: 'Source Code Pro', monospace;
+  background-color: #091b09;
+  color: #49fb35;
+}
+
+.code {
+  background-color: #091b09;
+  color: #49fb35;
+}
+
+.code2 {
+  background-color: #0c250c;
+}
+
+.code-btn {
+  background-color: #091b09;
+  color: #49fb35;
+  outline: #49fb35;
+  box-shadow: 0 0 5px #49fb35;
+}
+
+.code-btn:hover {
+  background-color: #49fb35;
+  color: #091b09;
+}
+
+.code-btn:focus {
+  box-shadow: 0 0 5px 5px #49fb35;
+}
+
+.accordion-btn:not(.collapsed) {
+  background-color: #49fb35;
+  color: #091b09;
+  box-shadow: 0 0 5px #49fb35;
+}
+
+.accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%2349fb35'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23091b09'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2873, 251, 53, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-dark .navbar-toggler {
+  color: rgba(73, 251, 53, 0.55);
+  border-color: rgba(73, 251, 53, 0.55);
+}
