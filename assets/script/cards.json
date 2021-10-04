@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Secure Password Generator",
+    "github": "https://github.com/wijeremy/Secure-Password-Generator",
+    "action": "https://wijeremy.github.io/Secure-Password-Generator/",
+    "img": "./assets/photos/password.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 2,
+    "name": "Code Quiz",
+    "github": "https://github.com/wijeremy/code-quiz",
+    "action": "https://wijeremy.github.io/code-quiz/",
+    "img": "./assets/photos/codequiz.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 3,
+    "name": "Work Day Scheduler",
+    "github": "https://github.com/wijeremy/Work-Day-Scheduler",
+    "action": "https://wijeremy.github.io/Work-Day-Scheduler/",
+    "img": "./assets/photos/scheduler.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 4,
+    "name": "Weather App",
+    "github": "https://github.com/wijeremy/Weather-App",
+    "action": "https://wijeremy.github.io/Weather-App/",
+    "img": "./assets/photos/weather.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 5,
+    "name": "README Generator",
+    "github": "https://github.com/wijeremy/readme-generator/tree/main/Develop",
+    "action": "https://www.youtube.com/watch?v=2Da5cZl1AyU&ab_channel=HermeticHippie",
+    "img": "./assets/photos/readmegenerator.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 6,
+    "name": "E-Commerce Back End",
+    "github": "https://github.com/wijeremy/e-commerce-back-end",
+    "action": "https://www.youtube.com/watch?v=z_ye7mdJn6I&ab_channel=HermeticHippie",
+    "img": "./assets/photos/commerce.png",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 7,
+    "name": "Team Profile Generator",
+    "github": "https://github.com/wijeremy/team-profile-generator",
+    "action": "",
+    "img": "https://picsum.photos/200/200",
+    "gif": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 8,
+    "name": "Note Taker",
+    "github": "https://github.com/wijeremy/note-taker",
+    "action": "",
+    "img": "https://picsum.photos/200/200",
+    "gif": "https://picsum.photos/200/200"
+  }
+]
