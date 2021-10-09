@@ -5,7 +5,8 @@
     "github": "https://github.com/wijeremy/Secure-Password-Generator",
     "action": "https://wijeremy.github.io/Secure-Password-Generator/",
     "img": "./assets/photos/password.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "This app generates a random string; good for a secure password."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "github": "https://github.com/wijeremy/code-quiz",
     "action": "https://wijeremy.github.io/code-quiz/",
     "img": "./assets/photos/codequiz.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "I used vanilla css and js to make this interactive animated game."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "github": "https://github.com/wijeremy/Work-Day-Scheduler",
     "action": "https://wijeremy.github.io/Work-Day-Scheduler/",
     "img": "./assets/photos/scheduler.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "A practice in using local storage and reading Date.now()."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "github": "https://github.com/wijeremy/Weather-App",
     "action": "https://wijeremy.github.io/Weather-App/",
     "img": "./assets/photos/weather.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "Fetching from an API, this app can forcast the weather anywhere in the world."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "github": "https://github.com/wijeremy/readme-generator/tree/main/Develop",
     "action": "https://www.youtube.com/watch?v=2Da5cZl1AyU&ab_channel=HermeticHippie",
     "img": "./assets/photos/readmegenerator.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "Dipping my toes into node. This makes a quality README using inquierer."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "github": "https://github.com/wijeremy/e-commerce-back-end",
     "action": "https://www.youtube.com/watch?v=z_ye7mdJn6I&ab_channel=HermeticHippie",
     "img": "./assets/photos/commerce.png",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "Again using node and the console, a pseudo back end using fs."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "github": "https://github.com/wijeremy/team-profile-generator",
     "action": "",
     "img": "https://picsum.photos/200/200",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "This app generates HTML for an office profile page from inputs through inquierer."
   },
   {
     "id": 8,
@@ -61,6 +68,7 @@
     "github": "https://github.com/wijeremy/note-taker",
     "action": "",
     "img": "https://picsum.photos/200/200",
-    "gif": "https://picsum.photos/200/200"
+    "gif": "https://picsum.photos/200/200",
+    "desc": "This uses routing and CRUDs to an 'api'."
   }
 ]

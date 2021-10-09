@@ -8,7 +8,7 @@ fetch(db)
     console.log(data);
     const myElements = data
       .map((i) => {
-        const { id, name, github, action, img, gif } = i;
+        const { id, name, github, action, img } = i;
         const desc =
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus sem, finibus ac nisl at, tristique accumsan ligula. Cras commodo convallis tellus efficitur rutrum. Vivamus iaculis diam nec euismod lacinia.';
         return `<div class="col">
