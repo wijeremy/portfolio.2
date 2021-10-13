@@ -5,7 +5,6 @@ fetch(db)
     return response.json();
   })
   .then((data) => {
-    console.log(data);
     const myElements = data
       .map((i) => {
         const { id, name, github, action, img } = i;

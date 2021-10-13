@@ -4,6 +4,8 @@
 
 [See the site yourself by clicking here!](https://wijeremy.github.io/portfolio.2/)
 
+![This is an image of the site](./assets/photos/portfolio-screenshot.png/)
+
 ## Description
 
 I built this site to practice applying css to bootstrap. I also had quite a bit of fun finding the simplest way to hardcode a database into my app. It only reads with the fetch function and doesn't require any libraries. But it means that I was able to deploy the cards of my coding examples modularly, using the same html (which I also hard coded into the js file) for each one and replacing important values with variables.
